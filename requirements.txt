@@ -1,0 +1,6 @@
+yfinance==0.2.18
+pandas
+matplotlib
+autogluon.tabular
+gradio
+koreanize-matplotlib
